@@ -1,0 +1,8 @@
+openai
+requests
+pydantic
+pydantic-settings
+python-dotenv
+beautifulsoup4
+lxml
+pandas
